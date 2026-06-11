@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "fastapi-persistence",
+      "title": "Building Persistent APIs with FastAPI + SQLite",
+      "description": "Implement persistent CRUD APIs using FastAPI and SQLite (SQLModel).",
+      "path": "assignments/fastapi-persistence",
+      "dueDate": "2026-06-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
